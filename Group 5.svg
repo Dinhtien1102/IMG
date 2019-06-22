@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="402.205" height="400" viewBox="0 0 402.205 400">
+  <defs>
+    <filter id="Path_9" x="45.205" y="48" width="311" height="311" filterUnits="userSpaceOnUse">
+      <feOffset dx="-2" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#00a6ff" flood-opacity="0.271"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(275.205 -862)">
+    <g id="Group_4" data-name="Group 4" transform="translate(-7 -2)">
+      <g id="Group_3" data-name="Group 3" transform="translate(1151 164)">
+        <g id="Group_2" data-name="Group 2" transform="translate(181 298)">
+          <g id="Group_1" data-name="Group 1" transform="translate(-185 88)">
+            <rect id="Rectangle_1" data-name="Rectangle 1" width="400" height="400" rx="33" transform="translate(-1413 314)" fill="#016dd1"/>
+            <g transform="matrix(1, 0, 0, 1, -1415.2, 314)" filter="url(#Path_9)">
+              <path id="Path_9-2" data-name="Path 9" d="M146.5,0A146.5,146.5,0,1,1,0,146.5,146,146,0,0,1,146.5,0Z" transform="translate(56.2 53)" fill="#fff"/>
+            </g>
+            <path id="Path_1" data-name="Path 1" d="M102.7-284l176.8,62.4" transform="translate(-1362.7 640.8)" fill="#005380" stroke="#016dd1" stroke-width="6"/>
+            <path id="Path_2" data-name="Path 2" d="M102.7-284l227.834,65.1" transform="matrix(0.998, 0.07, -0.07, 0.998, -1410.723, 655.367)" fill="#005380" stroke="#016dd1" stroke-width="6"/>
+            <path id="Path_3" data-name="Path 3" d="M102.7-284l269.148,65.1" transform="matrix(0.995, 0.105, -0.105, 0.995, -1452.768, 674.627)" fill="#005380" stroke="#016dd1" stroke-width="6"/>
+            <path id="Path_4" data-name="Path 4" d="M102.7-284l312.869,65.1" transform="translate(-1504.377 695.579) rotate(8)" fill="#005380" stroke="#016dd1" stroke-width="6"/>
+            <path id="Path_5" data-name="Path 5" d="M102.7-284l328.825,65.1" transform="translate(-1530.377 733.579) rotate(8)" fill="none" stroke="#016dd1" stroke-width="6"/>
+            <path id="Path_6" data-name="Path 6" d="M102.7-284l324.939,65.1" transform="translate(-1545.377 780.579) rotate(8)" fill="#005380" stroke="#016dd1" stroke-width="6"/>
+            <path id="Path_7" data-name="Path 7" d="M102.7-284l324.939,65.1" transform="translate(-1546.377 827.579) rotate(8)" fill="none" stroke="#016dd1" stroke-width="6"/>
+            <path id="Path_8" data-name="Path 8" d="M34,0,68,26H0Z" transform="translate(-1305.031 637.459) rotate(-14)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
